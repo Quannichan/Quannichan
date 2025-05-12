@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Trần Minh Quân (Quannichan)</h1>
-<h3 align="center">A passionate Security, Fullstack web, mobile app, IOT, automation programing developer from VietNam</h3>
+<h3 align="center">A passionate Security, Fullstack web, mobile app, IOT, automation programing developer, AI(Machine Learning, Deep Learning, Neural Network) from VietNam</h3>
 
 - 📫 How to reach me **tranminhquan130804@gmail.com**
 
