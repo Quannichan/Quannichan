@@ -30,6 +30,16 @@ Final-year Network Security engineering student at **VKU University**, currently
 | 🔬 **Research** | AI in networking, email phishing, malware analysis |
 | 🧭 **Frameworks** | OWASP Top 10 · MITRE ATT&CK |
 
+### Repositories
+
+<p>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Ftotal.json&style=for-the-badge" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Fpublic.json&style=for-the-badge" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Fprivate.json&style=for-the-badge" />
+</p>
+
+> Private repositories are counted only. Names and contents stay confidential.
+
 ---
 
 ## Core Security Skills
