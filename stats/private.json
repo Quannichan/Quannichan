@@ -1,1 +1,6 @@
-{"schemaVersion": 1, "label": "Private (Confidential)", "message": "pending first sync", "color": "7c3aed"}
+{
+  "schemaVersion": 1,
+  "label": "Private (Confidential)",
+  "message": "null",
+  "color": "7c3aed"
+}
