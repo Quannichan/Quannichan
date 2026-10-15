@@ -36,9 +36,10 @@ Final-year Network Security engineering student at **VKU University**, currently
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Ftotal.json&style=for-the-badge" />
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Fpublic.json&style=for-the-badge" />
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FQuannichan%2FQuannichan%2Fmain%2Fstats%2Fprivate.json&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unpushed%20Projects-10-f59e0b?style=for-the-badge" />
 </p>
 
-> Private repositories are counted only. Names and contents stay confidential.
+> Private repositories are counted only. Names and contents stay confidential. Unpushed projects are local work not yet published to GitHub.
 
 ---
 
