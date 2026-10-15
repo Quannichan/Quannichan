@@ -18,9 +18,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
-          user=$(curl -s -H "Authorization: Bearer $GH_TOKEN" https://api.github.com/user)
-          pub=$(echo "$user" | jq '.public_repos')
-          priv=$(echo "$user" | jq '.owned_private_repos')
+          all=$(gh api --paginate "user/repos?affiliation=owner&per_page=100" --jq '.[].private')
+          if [ -z "$all" ]; then
+            echo "Could not list repositories: check STATS_TOKEN and its permissions"
+            exit 1
+          fi
+          priv=$(echo "$all" | grep -c '^true$' || true)
+          pub=$(echo "$all" | grep -c '^false$' || true)
           total=$((pub + priv))
           mkdir -p stats
           mk() { jq -n --arg l "$1" --arg m "$2" --arg c "$3" '{schemaVersion:1,label:$l,message:$m,color:$c}' > "stats/$4.json"; }
