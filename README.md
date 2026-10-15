@@ -1,11 +1,185 @@
-﻿<h1 align="center">Hi 👋, I'm Trần Minh Quân (Quannichan)</h1>
-<h3 align="center">A passionate Security, Fullstack web, mobile app, IOT, automation programing developer, AI(Machine Learning, Deep Learning, Neural Network) from VietNam</h3>
+<div align="center">
 
-- 📫 How to reach me **tmquan1384@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:059669&height=200&section=header&text=Tran%20Minh%20Quan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Quannichan%20%7C%20Network%20Security%20Engineer&descSize=18&descAlignY=60" alt="header" />
 
-<h3 align="left" >Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf-Kqyd8dSvhhufDguf9CsTZStGVsoSQ5dg&s" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://files.oaiusercontent.com/file-eQxfrZI8suNdr5FPVDcRfTKG?se=2123-10-25T08%3A27%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17c86623-dfcc-4c0c-84b9-dddbca7b6466.png&sig=jEpIYkG0JA/j9d8LUmrJu%2BDUPxvEVaAMnHvb8AIidiQ%3D" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSUBVncK8kDmMVHcaKdG97v1eun4XG7NB-w&s" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdd-lg9z9HqQ0XkfA3FN2lY7Vx2DpGAXbSg&s" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://39ntbr6g.media.zestyio.com/nodejslogo.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOggcxHxPZolo0bL9rWj5SeoMVbITg3uSzsA&s" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcMdnLnVtxso40OlPI63YHziAlg_34FVbIA&s" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67cb2328a0f5afcb01adc404_66bbf2250478cce84c3c3760_66bbf21b7f0ee244a1589b75_c3635b59-a3d2-444a-b636-a9d0061dcdde.png" alt="vuejs" width="40" height="40"/> </a>
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=34D399&center=true&vCenter=true&width=700&lines=Network+Security+%26+Infrastructure;Penetration+Testing+%7C+Web+%26+Wireless;Reverse+Engineering+%26+Malware+Analysis;AI+for+Phishing+Detection+%26+Threat+Analysis;Fullstack+%7C+IoT+%7C+Automation)](https://github.com/Quannichan)
+
+<p>
+<img src="https://img.shields.io/badge/Final--Year%20Engineering%20Student-VKU%20University-0284c7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completing%20Graduation%20Thesis-e11d48?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelancer-3%2B%20Years-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Industry-1%2B%20Year-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Teaching%20Assistant-1%20Year-f59e0b?style=for-the-badge" />
 </p>
+
+<a href="mailto:tmquan1384@gmail.com"><img src="https://img.shields.io/badge/Email-tmquan1384%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Vietnam-da251d?style=flat-square" />
+
+</div>
+
+---
+
+## About
+
+Final-year Network Security engineering student at **VKU University**, currently completing my **graduation thesis**, with hands-on experience across offensive security, defensive infrastructure, reverse engineering and applied AI. I combine **3+ years of freelance delivery**, **1+ year in a professional software company** and **1 year as a university teaching assistant** with active academic research on **AI for network security, email phishing detection and malware analysis**.
+
+| | |
+|:--|:--|
+| 🎓 **Education** | B.Eng. in Network Security, VKU University · **Final-year student, completing graduation thesis** |
+| 💼 **Experience** | 3+ yrs Freelancer · 1+ yr Software Company · 1 yr Teaching Assistant |
+| 🔬 **Research** | AI in networking, email phishing, malware analysis |
+| 🧭 **Frameworks** | OWASP Top 10 · MITRE ATT&CK |
+
+---
+
+## Core Security Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Networking
+Network infrastructure design, administration, monitoring and hardening.
+
+</td>
+<td width="33%" valign="top">
+
+### 📡 Wireless Security
+Wi-Fi attack surface assessment, rogue AP and WPA/WPA2-Enterprise testing.
+
+</td>
+<td width="33%" valign="top">
+
+### 🕷️ Penetration Testing
+Web and application pentesting, vulnerability discovery and exploitation.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧬 Reverse Engineering
+Binary analysis and debugging of native Windows executables.
+
+</td>
+<td valign="top">
+
+### 🦠 Malware Analysis
+Static and dynamic analysis, sandboxing and YARA rule writing.
+
+</td>
+<td valign="top">
+
+### 🔐 Cryptography
+Hashing, encryption, password auditing and cryptanalysis.
+
+</td>
+</tr>
+</table>
+
+**Networking fundamentals:** `OSI` `TCP/IP` `IPv4/IPv6` `Subnetting` `TLS` `HTTP/HTTPS` `DNS` `LAN/WAN` `NAT` `Port Forwarding` `Tunneling` `Proxy / Reverse Proxy` `VPN` `Hosting`
+
+**Security knowledge:** `OWASP Top 10` `MITRE ATT&CK`
+
+---
+
+## Security Toolbox
+
+| Domain | Tools |
+|:--|:--|
+| **Operating Systems** | Kali Linux · Arch Linux · REMnux · Ubuntu · Linux · Windows 10 LTSC 2021 · Windows 7 · VMware |
+| **Networking & Infrastructure** | Wireshark · GNS3 · Packet Tracer · pfSense · Centreon |
+| **Network Administration** | Zabbix · Pi-hole · pfSense · Centreon |
+| **Network & Wireless Security** | Aircrack-ng · iptables · Nmap · wavemon · wash · reaver · hostapd · hostapd-wpe |
+| **Penetration Testing** | Metasploit · Burp Suite · OWASP ZAP · SQLmap · XSStrike · ffuf · wfuzz · dirsearch · PayloadsAllTheThings · Wordlists |
+| **Web Defense** | OWASP Core Rule Set · ModSecurity |
+| **Reverse Engineering & Malware** | IDA · Ghidra · x64dbg · OllyDbg · FLOSS · capa · YARA · oletools · CAPE Sandbox · Procmon · PEview · LordPE |
+| **Cryptography** | Hashcat · John the Ripper · CyberChef |
+
+---
+
+## Engineering Stack
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,go,dart,kotlin,swift,php,html,css" /><br><br>
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,sass,figma" /><br><br>
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,spring,dotnet,go,php" /><br><br>
+
+**Data, Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,azure,docker,githubactions,git,postman" /><br><br>
+
+**IoT**<br>
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+</div>
+
+| Area | Details |
+|:--|:--|
+| **Backend frameworks** | Node.js · Express · NestJS · Next.js · Django · FastAPI · Spring Boot · ASP.NET Core · Gin · Java Servlet · PHP Composer |
+| **Server-side templates** | EJS · ASPX · JSX · PHP |
+| **API integration** | REST API · Axios · Fetch API · AJAX |
+| **Containers & CI/CD** | Docker · Docker Compose · GitHub Actions |
+| **IoT hardware** | ESP32 · ESP32-CAM · Arduino |
+| **Automation** | Selenium · Beautiful Soup |
+
+---
+
+## AI & Machine Learning
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /><br><br>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/BERT-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Timm-111827?style=flat-square" />
+</div>
+
+**Concepts:** `RAG` `LLM` `NLP` `CNN` `Computer Vision` `MLP` `TF-IDF` `Vector Fusion`
+
+---
+
+## Research & Recognition
+
+Research focus: **AI applied to networking, email phishing and malware analysis.**
+
+| Achievement | Venue |
+|:--|:--|
+| 🏆 Student Scientific Research Award | VKU University |
+| 📜 Scientific Research Certificate | FJCAI 2026, Can Tho |
+| 🌏 Scientific Research Certificate | IUKM 2026 (International Conference), Quy Nhon |
+
+---
+
+## Working Style
+
+`Self-learning` · `Independent research` · `Problem solving` · `Logical thinking` · `Debugging` · `Code review` · `System workflow design`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Quannichan&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quannichan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+<a href="mailto:tmquan1384@gmail.com"><img src="https://img.shields.io/badge/tmquan1384%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0f172a&height=100&section=footer" alt="footer" />
+
+</div>
