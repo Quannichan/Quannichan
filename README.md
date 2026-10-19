@@ -117,13 +117,23 @@ Hashing, encryption, password auditing and cryptanalysis.
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,go,dart,kotlin,swift,php,html,css" /><br><br>
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,bootstrap,sass,figma" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,tailwind,bootstrap,sass,jquery,figma" /><br><br>
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,spring,dotnet,go,php" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,spring,dotnet,go,php,laravel" /><br><br>
 
-**Data, Cloud & DevOps**<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,azure,docker,githubactions,git,postman" /><br><br>
+**Data, Caching, Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,azure,openstack,docker,kubernetes,githubactions,git,postman" /><br><br>
+
+**Web Servers**<br>
+<img src="https://skillicons.dev/icons?i=nginx"/><img style="width:47px;height:47px;border-radius:10px;margin-left:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJlG_S0iL8vg4zNEClXcR3JsjgDApR4JtRkh2XjUHl6Q&s=10">
+<br><br>
+
+**Version Control**<br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" /><br><br>
+
+**OS**<br>
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,kali,windows" /><br><br>
 
 **IoT**<br>
 <img src="https://skillicons.dev/icons?i=arduino" />
